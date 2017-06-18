@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Eduardo Aboy**, Git Lover.
+**Eduardo Aboy**, Git Lover, and Larry Plotter lover
